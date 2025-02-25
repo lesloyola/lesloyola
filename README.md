@@ -10,10 +10,14 @@ Soy **egresada del Bootcamp de Data Science de TripleTen**, donde desarrollé ha
 - 📊 **Visualización de datos** con Power BI, Matplotlib y Seaborn  
 
 📂 **Mis proyectos en GitHub:**  
-🔹 [Optimización de Pozos con Regresión](enlace-al-repositorio)  
-🔹 [Churn Prediction con AUC-ROC](enlace-al-repositorio)  
-🔹 [Data Masking en Seguros](enlace-al-repositorio)  
-🔹 [SQL para Análisis de Datos](enlace-al-repositorio)  
+🔹 [Optimización de Pozos con Regresión](https://github.com/lesloyola/OilyGiant_Pozos_Sprint11)  
+🔹 [Churn Prediction con AUC-ROC](https://github.com/lesloyola/BetaBank_Churn_Sprint10)  
+🔹 [Data Masking en Seguros](https://github.com/lesloyola/SureTomorrow_Proteccion_Datos_Sprint12)  
+🔹 [SQL para Análisis de Datos](https://github.com/lesloyola/Impacto_Clima_Transporte_Sprint8)  
+🔹 [Machine Learning Básico](https://github.com/lesloyola/Clasificacion_Planes_Megaline_Sprint9)  
+🔹 [Análisis Estadístico de Datos](https://github.com/lesloyola/Analisis_Estadistico_Sprint5)  
+ 
+
 
 📫 **Cómo contactarme:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/lesly-amellali-loyola-hernandez-b5246526a/) | 📬 leslyamellalil@gmail.com  
