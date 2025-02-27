@@ -5,9 +5,9 @@ Soy **egresada del Bootcamp de Data Science de TripleTen**, donde desarrollé ha
 
 📌 **Tecnologías que manejo:**  
 - 🐍 **Python** (pandas, NumPy, scikit-learn)  
-- 🗄️ **SQL** para bases de datos y análisis  
-- 📈 **Machine Learning básico** (Regresión, Clasificación, Clustering)  
-- 📊 **Visualización de datos** con Power BI, Matplotlib y Seaborn  
+- 🗄️ **SQL** (Consultas y análisis de datos) 
+- 📈 **Machine Learning básico** (Regresión, Clasificación)
+
 
 📂 **Mis proyectos en GitHub:**  
 🔹 [Optimización de Pozos con Regresión](https://github.com/lesloyola/OilyGiant_Pozos_Sprint11)  
